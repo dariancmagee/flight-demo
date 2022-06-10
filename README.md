@@ -1,12 +1,26 @@
-# flight-demo
+# Flight Search Demo
 
-Full stack app that allows users to search for origin and destination cities. They can then choose to see the flights 
-options for those cities. App was created using Node.js and React. Material UI was also used for certain elements.
+This is a full stack app that allows users to search for origin and destination cities. They can then choose to see the flight 
+options for those cities. When the user clicks in the search box, they can either type in an airport name or code to find flights. 
 
-#Challenges:
+# Challenges:
 Getting the local API to conenct to the frontend. I tried creating a local file form the csv file provided, but it would render
-the entire country code list.
+the entire country code list when I called it. I wanted to have the results populate when I pressed the "Search" button.
 
-Getting the backend and frontend connected was a little tricky, but I got it working. 
+I started over a couple times to try different languages for the final app. I decided to use Node.js and React. I still had a couple other
+functions I wanted to add, but this is what it would look like for the user.
 
-Overall it's just a start to the app. I would like to add another route to see the tabular results for the cities chosen. 
+
+# Languages
+
+JavaScript, CSS, HTML
+
+# Frameworks
+
+React, Express, Node.js
+
+# Component Library:
+Material UI
+
+Collaborators:
+Darian Magee
