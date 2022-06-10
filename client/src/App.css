@@ -1,0 +1,20 @@
+div h1 {
+  color: orange;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+div.searchBox {
+  display: flex;
+  color: white;
+  margin: 5px;
+  justify-content: space-evenly;
+  
+}
+
+div.button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
